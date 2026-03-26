@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1774200123782,
+    "name": "ACC Limited",
+    "price": "₹1,381.40",
+    "change": "2.11",
+    "isUp": true
+  },
+  {
+    "id": 1774200099388,
+    "name": "Ambuja Cements",
+    "price": "₹420.55",
+    "change": "0.14",
+    "isUp": true
+  },
+  {
+    "id": 1774200070384,
+    "name": "Adani Total Gas",
+    "price": "₹551.90",
+    "change": "0.76",
+    "isUp": false
+  },
+  {
+    "id": 1774200017797,
+    "name": "Adani Energy Solutions",
+    "price": "₹1,008.50",
+    "change": "0.32",
+    "isUp": true
+  },
+  {
+    "id": 1774199958535,
+    "name": "Adani Green",
+    "price": "₹863.10",
+    "change": "0.96",
+    "isUp": true
+  },
+  {
+    "id": 1774199906453,
+    "name": "Adani Power",
+    "price": "₹151.54",
+    "change": "0.35",
+    "isUp": true
+  },
+  {
+    "id": 1774199839674,
+    "name": "Adani Ports & SEZ",
+    "price": "₹1,365.40",
+    "change": "0.69",
+    "isUp": true
+  },
+  {
+    "id": 1774199765140,
+    "name": "Adani Enterprises",
+    "price": "1,927.10",
+    "change": "0.50",
+    "isUp": false
+  }
+]
